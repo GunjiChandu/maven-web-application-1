@@ -146,7 +146,7 @@
 				</configuration>
 			</plugin>
 			
-</plugins>
+
     <!-- Other configurations -->
 
     
@@ -169,6 +169,7 @@
     <!-- Other configurations -->
 		
 	</build>
+</plugins>
 	
 	
 </project>
