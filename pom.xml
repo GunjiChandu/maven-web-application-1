@@ -145,28 +145,8 @@
 					<wtpContextName>maven-web-application</wtpContextName>
 				</configuration>
 			</plugin>
-			
 
-    <!-- Other configurations -->
-
-    
-        <plugins>
-            <!-- Add the SonarQube plugin -->
-            <plugin>
-                <groupId>org.sonarsource.scanner.maven</groupId>
-                <artifactId>sonar-maven-plugin</artifactId>
-                <version>3.9.4.3611</version>
-            </plugin>
-            <!-- Add any additional plugins you require -->
-            <!-- For example, if you need to analyze Java code, you might add -->
-            <plugin>
-                <groupId>org.codehaus.mojo</groupId>
-                <artifactId>sonar-maven-plugin</artifactId>
-                <version>3.9.4.3611</version>
-            </plugin>
-        </plugins>
-
-    <!-- Other configurations -->
+        
 		
 	</build>
 </plugins>
