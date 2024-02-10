@@ -149,7 +149,7 @@
 </plugins>
     <!-- Other configurations -->
 
-    <build>
+    
         <plugins>
             <!-- Add the SonarQube plugin -->
             <plugin>
@@ -165,7 +165,6 @@
                 <version>3.9.4.3611</version>
             </plugin>
         </plugins>
-    </build>
 
     <!-- Other configurations -->
 		
